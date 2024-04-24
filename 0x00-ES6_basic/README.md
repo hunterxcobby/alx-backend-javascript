@@ -1,6 +1,6 @@
 # Project: 0x00. ES6 Basics
 
-![Node_JS](./main-js_files/node_js-img.png)
+![Node_JS](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240424%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240424T140044Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=254b28f7c6c9dc32873e963027f09093febf6c37c0d0fb3e88d331d564642500)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&width=435&lines=ES6+Basic\(:)](https://git.io/typing-svg)
 
