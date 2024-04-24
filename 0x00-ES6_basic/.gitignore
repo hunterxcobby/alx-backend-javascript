@@ -1,0 +1,8 @@
+# ignore these directories
+/node_modules
+/dist
+/.next
+/.nuxt
+/.idea
+/.vscode
+/.git
