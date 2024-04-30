@@ -1,6 +1,6 @@
 # Project: 0x03. ES6 data manipulation
 
-![Array Data Manipulation](./main-js_files/array_data-manipulation.jpg)
+![Array Data Manipulation](./main_files/array_data-manipulation.jpg)
 
 ## Resources
 
