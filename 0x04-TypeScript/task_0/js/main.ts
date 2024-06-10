@@ -10,17 +10,17 @@ interface Student {
 
 // create 2 instances of the Student interface
 const student1: Student = {
-  firstName: 'Ayomide',
-  lastName: 'Kayode',
-  age: 28,
-  location: 'Lagos',
+  firstName: 'Cobby',
+  lastName: 'Sefah',
+  age: 21,
+  location: 'Accra',
 };
 
 const student2: Student = {
-  firstName: 'Storm',
-  lastName: 'Rex',
+  firstName: 'Ifeoluwa',
+  lastName: 'Adebayo',
   age: 27,
-  location: 'Abuja',
+  location: 'Ogun state',
 };
 
 // array containing the two student variables
